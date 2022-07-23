@@ -5,6 +5,7 @@
         },
         "Default": {
             "id": 1,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/f/f6/Csgo-music-kit-valve.png/revision/latest?cb=20141017213959",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/9/92/Csgo-music-kit-valve-01-mainmenu.ogg/revision/latest?cb=20141017214033",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/9/92/Csgo-music-kit-valve-01-mainmenu.ogg/revision/latest?cb=20141017214033",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/9/92/Csgo-music-kit-valve-01-mainmenu.ogg/revision/latest?cb=20141017214033",
@@ -21,6 +22,7 @@
         },
         "Daniel Sadowski, Crimson Assault": {
             "id": 3,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/e/ec/Csgo-music-kit-daniel-sadowski.png/revision/latest?cb=20150213185018",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/1/13/Csgo-daniel-sadowski-crimson-assault-mainmenu-new.ogg/revision/latest?cb=20150715134929",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/1/13/Csgo-daniel-sadowski-crimson-assault-mainmenu-new.ogg/revision/latest?cb=20150715134929",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/1/13/Csgo-daniel-sadowski-crimson-assault-mainmenu-new.ogg/revision/latest?cb=20150715134929",
@@ -34,6 +36,7 @@
         },
         "Noisia, Sharpened": {
             "id": 4,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/c/cd/Csgo-music-kit-noisia.png/revision/latest?cb=20150213185111",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/f/fa/Csgo-noisia-sharpened-mainmenu.ogg/revision/latest?cb=20141013025658",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/f/fa/Csgo-noisia-sharpened-mainmenu.ogg/revision/latest?cb=20141013025658",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/f/fa/Csgo-noisia-sharpened-mainmenu.ogg/revision/latest?cb=20141013025658",
@@ -47,6 +50,7 @@
         },
         "Robert Allaire, Insurgency": {
             "id": 5,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/f/fb/Csgo-music-kit-robert-allaire.png/revision/latest?cb=20150213185126",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/d/d3/Csgo-robert-allaire-insurgency-mainmenu.ogg/revision/latest?cb=20141013025828",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/d/d3/Csgo-robert-allaire-insurgency-mainmenu.ogg/revision/latest?cb=20141013025828",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/d/d3/Csgo-robert-allaire-insurgency-mainmenu.ogg/revision/latest?cb=20141013025828",
@@ -60,6 +64,7 @@
         },
         "Sean Murray, A*D*8": {
             "id": 6,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/a/ab/Csgo-music-kit-sean-murray.png/revision/latest?cb=20150213185154",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/a/a0/Csgo-sean-murray-ad8-mainmenu.ogg/revision/latest?cb=20141013030059",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/a/a0/Csgo-sean-murray-ad8-mainmenu.ogg/revision/latest?cb=20141013030059",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/a/a0/Csgo-sean-murray-ad8-mainmenu.ogg/revision/latest?cb=20141013030059",
@@ -73,6 +78,7 @@
         },
         "Feed Me, High Noon": {
             "id": 7,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/1/11/Csgo-music-kit-feed-me.png/revision/latest?cb=20150213185053",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/d/d4/Csgo-feed-me-high-noon-mainmenu.ogg/revision/latest?cb=20141013025521",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/d/d4/Csgo-feed-me-high-noon-mainmenu.ogg/revision/latest?cb=20141013025521",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/d/d4/Csgo-feed-me-high-noon-mainmenu.ogg/revision/latest?cb=20141013025521",
@@ -86,7 +92,7 @@
         },
         "Dren, Death's Head Demolition": {
             "id": 8,
-            "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/8/85/Csgo-dren-deaths-head-demolition-mainmenu.ogg/revision/latest?cb=20141013025329",
+            "img": "https://static.wikia.nocookie.net/cswikia/images/d/d8/Csgo-music-kit-dren02.png/revision/latest?cb=20190407233200",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/c/c3/Csgo-dren-deaths-head-demolition-bombplanted.ogg/revision/latest?cb=20141013025325",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/d/d5/Csgo-dren-deaths-head-demolition-bombtenseccount.ogg/revision/latest?cb=20141013025326",
             "Choose team": "https://static.wikia.nocookie.net/cswikia/images/9/98/Csgo-dren-deaths-head-demolition-chooseteam.ogg/revision/latest?cb=20141013025327",
@@ -99,6 +105,7 @@
         },
         "Austin Wintory, Desert Fire": {
             "id": 9,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/f/fc/Csgo-music-kit-austin-wintory.png/revision/latest?cb=20150213184909",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/b/bd/Csgo-austin-wintory-desert-fire-mainmenu.ogg/revision/latest?cb=20141013025150",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/b/bd/Csgo-austin-wintory-desert-fire-mainmenu.ogg/revision/latest?cb=20141013025150",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/b/bd/Csgo-austin-wintory-desert-fire-mainmenu.ogg/revision/latest?cb=20141013025150",
@@ -112,6 +119,7 @@
         },
         "Sasha, LNOE": {
             "id": 10,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/d/df/Csgo-music-kit-sasha.png/revision/latest?cb=20150213185139",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/2/2b/Csgo-sasha-lnoe-mainmenu.ogg/revision/latest?cb=20141013025942",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/2/2b/Csgo-sasha-lnoe-mainmenu.ogg/revision/latest?cb=20141013025942",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/2/2b/Csgo-sasha-lnoe-mainmenu.ogg/revision/latest?cb=20141013025942",
@@ -125,6 +133,7 @@
         },
         "Skog, Metal": {
             "id": 11,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/b/b1/Csgo-music-kit-skrog.png/revision/latest?cb=20150213185208",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/5/57/Csgo-skog-metal-bombplanted.ogg/revision/latest?cb=20141013031412",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/6/6a/Csgo-skog-metal-bombtenseccount.ogg/revision/latest?cb=20141013031412",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/8/84/Csgo-skog-metal-chooseteam.ogg/revision/latest?cb=20141013031412",
@@ -138,6 +147,7 @@
         },
         "Midnight Riders, All I Want for Christmas": {
             "id": 12,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/8/8f/Csgo-music-kit-midnight_riders.png/revision/latest?cb=20141219171816",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/4/47/Csgo-midnight-riders-christmas-mainmenu.ogg/revision/latest?cb=20150102200110",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/4/47/Csgo-midnight-riders-christmas-mainmenu.ogg/revision/latest?cb=20150102200110",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/4/47/Csgo-midnight-riders-christmas-mainmenu.ogg/revision/latest?cb=20150102200110",
@@ -151,6 +161,7 @@
         },
         "Matt Lange, IsoRhythm": {
             "id": 13,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/7/7b/Csgo-musickit-matt_lange_01.png/revision/latest?cb=20150213193222",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/a/a0/Csgo-music-kit-matlange-01-mainmenu.ogg/revision/latest?cb=20150213205057",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/a/a0/Csgo-music-kit-matlange-01-mainmenu.ogg/revision/latest?cb=20150213205057",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/a/a0/Csgo-music-kit-matlange-01-mainmenu.ogg/revision/latest?cb=20150213205057",
@@ -164,6 +175,7 @@
         },
         "Mateo Messina, For No Mankind": {
             "id": 14,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/f/fd/Csgo-musickit-mateo_messina_01.png/revision/latest?cb=20150213193416",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/6/6c/Csgo-music-kit-mateomessina_01-mainmenu.ogg/revision/latest?cb=20150213211304",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/6/6c/Csgo-music-kit-mateomessina_01-mainmenu.ogg/revision/latest?cb=20150213211304",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/6/6c/Csgo-music-kit-mateomessina_01-mainmenu.ogg/revision/latest?cb=20150213211304",
@@ -177,6 +189,7 @@
         },
         "Various Artists, Hotline Miami": {
             "id": 15,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/3/37/Csgo-musickit-hotlinemiami_01.png/revision/latest?cb=20150213193111",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/4/49/Csgo-music-kit-hotlinemiami-01-mainmenu.ogg/revision/latest?cb=20150213210717",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/4/49/Csgo-music-kit-hotlinemiami-01-mainmenu.ogg/revision/latest?cb=20150213210717",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/4/49/Csgo-music-kit-hotlinemiami-01-mainmenu.ogg/revision/latest?cb=20150213210717",
@@ -190,6 +203,7 @@
         },
         "Daniel Sadowski, Total Domination": {
             "id": 16,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/2/28/Csgo-musickit-danielsadowski_02.png/revision/latest?cb=20150213193348",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/3/3a/Csgo-music-kit-danielsadowski_02-mainmenu.ogg/revision/latest?cb=20150213212133",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/3/3a/Csgo-music-kit-danielsadowski_02-mainmenu.ogg/revision/latest?cb=20150213212133",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/3/3a/Csgo-music-kit-danielsadowski_02-mainmenu.ogg/revision/latest?cb=20150213212133",
@@ -203,6 +217,7 @@
         },
         "Damjan Mravunac, The Talos Principle": {
             "id": 17,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/3/30/Csgo-musickit-damjanmravunac_01.png/revision/latest?cb=20150213193314",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/b/b3/Csgo-music-kit-damjanmravunac_01-mainmenu.ogg/revision/latest?cb=20150213214411",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/b/b3/Csgo-music-kit-damjanmravunac_01-mainmenu.ogg/revision/latest?cb=20150213214411",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/b/b3/Csgo-music-kit-damjanmravunac_01-mainmenu.ogg/revision/latest?cb=20150213214411",
@@ -216,6 +231,7 @@
         },
         "Proxy, Battlepack": {
             "id": 18,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/0/07/Proxy_01.png/revision/latest?cb=20150925113208",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/0/01/Csgo-music-kit-proxy_01-mainmenu.ogg/revision/latest?cb=20151109124617",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/0/01/Csgo-music-kit-proxy_01-mainmenu.ogg/revision/latest?cb=20151109124617",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/0/01/Csgo-music-kit-proxy_01-mainmenu.ogg/revision/latest?cb=20151109124617",
@@ -229,6 +245,7 @@
         },
         "Ki:Theory, MOLOTOV": {
             "id": 19,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/5/5c/Kitheory_01.png/revision/latest?cb=20150925113124",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/a/a7/Csgo-music-kit-kitheory_01-mainmenu.ogg/revision/latest?cb=20151028115430",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/a/a7/Csgo-music-kit-kitheory_01-mainmenu.ogg/revision/latest?cb=20151028115430",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/a/a7/Csgo-music-kit-kitheory_01-mainmenu.ogg/revision/latest?cb=20151028115430",
@@ -242,6 +259,7 @@
         },
         "Troels Folmann, Uber Blasto Phone": {
             "id": 20,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/c/c8/Troelsfolmann_01.png/revision/latest?cb=20150925113235",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/8/83/Csgo-music-kit-troelsfolmann_01-mainmenu.ogg/revision/latest?cb=20151112140323",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/8/83/Csgo-music-kit-troelsfolmann_01-mainmenu.ogg/revision/latest?cb=20151112140323",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/8/83/Csgo-music-kit-troelsfolmann_01-mainmenu.ogg/revision/latest?cb=20151112140323",
@@ -255,6 +273,7 @@
         },
         "Kelly Bailey, Hazardous Environments": {
             "id": 21,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/2/25/Kellybailey_01.png/revision/latest?cb=20150925113105",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/f/f6/Csgo-music-kit-Kellybailey_01-mainmenu.ogg/revision/latest?cb=20151105121850",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/f/f6/Csgo-music-kit-Kellybailey_01-mainmenu.ogg/revision/latest?cb=20151105121850",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/f/f6/Csgo-music-kit-Kellybailey_01-mainmenu.ogg/revision/latest?cb=20151105121850",
@@ -268,6 +287,7 @@
         },
         "Skog, II-Headshot": {
             "id": 22,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/e/ee/Csgo-music-kit-skog-ii-headshot.png/revision/latest?cb=20151017170204",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/2/2b/Csgo-music-kit-skog_02-mainmenu.ogg/revision/latest?cb=20151023180303",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/2/2b/Csgo-music-kit-skog_02-mainmenu.ogg/revision/latest?cb=20151023180303",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/2/2b/Csgo-music-kit-skog_02-mainmenu.ogg/revision/latest?cb=20151023180303",
@@ -281,6 +301,7 @@
         },
         "Daniel Sadowski, The 8-Bit Kit": {
             "id": 23,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/5/52/Csgo-music-kit-danielsadowski_04.png/revision/latest?cb=20211008153723",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/0/0f/Csgo-music-kit-dren02-mainmenu.mp3/revision/latest?cb=20220124102325",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/0/0f/Csgo-music-kit-dren02-mainmenu.mp3/revision/latest?cb=20220124102325",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/0/0f/Csgo-music-kit-dren02-mainmenu.mp3/revision/latest?cb=20220124102325",
@@ -294,6 +315,7 @@
         },
         "AWOLNATION, I Am": {
             "id": 24,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/e/ed/Awolnation_01.png/revision/latest?cb=20150926110428",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/a/af/Csgo-music-kit-awolnation_01-mainmenu.ogg/revision/latest?cb=20151112120313",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/a/af/Csgo-music-kit-awolnation_01-mainmenu.ogg/revision/latest?cb=20151112120313",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/a/af/Csgo-music-kit-awolnation_01-mainmenu.ogg/revision/latest?cb=20151112120313",
@@ -307,6 +329,7 @@
         },
         "Mord Fustang, Diamonds": {
             "id": 25,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/0/0c/Mordfustang_01.png/revision/latest?cb=20150925113146",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/9/9f/Csgo-music-kit-mordfustang_01-mainmenu.ogg/revision/latest?cb=20151110112448",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/9/9f/Csgo-music-kit-mordfustang_01-mainmenu.ogg/revision/latest?cb=20151110112448",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/9/9f/Csgo-music-kit-mordfustang_01-mainmenu.ogg/revision/latest?cb=20151110112448",
@@ -320,6 +343,7 @@
         },
         "Michael Bross, Invasion!": {
             "id": 26,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/b/b4/Michaelbross_01.png/revision/latest?cb=20150925113135",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/3/31/Csgo-music-kit-michaelbross_01-mainmenu.ogg/revision/latest?cb=20151112121701",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/3/31/Csgo-music-kit-michaelbross_01-mainmenu.ogg/revision/latest?cb=20151112121701",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/3/31/Csgo-music-kit-michaelbross_01-mainmenu.ogg/revision/latest?cb=20151112121701",
@@ -333,6 +357,7 @@
         },
         "Ian Hultquist, Lion's Mouth": {
             "id": 27,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/4/4a/Ianhultquist_01.png/revision/latest?cb=20150925113055",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/7/7b/Csgo-music-kit-Ianhultquist_01-mainmenu.ogg/revision/latest?cb=20151104122818",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/7/7b/Csgo-music-kit-Ianhultquist_01-mainmenu.ogg/revision/latest?cb=20151104122818",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/7/7b/Csgo-music-kit-Ianhultquist_01-mainmenu.ogg/revision/latest?cb=20151104122818",
@@ -346,6 +371,7 @@
         },
         "New Beat Fund, Sponge Fingerz": {
             "id": 28,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/b/b9/Newbeatfund_01.png/revision/latest?cb=20150925113158",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/3/36/Csgo-music-kit-newbeatfund_01-mainmenu.ogg/revision/latest?cb=20151112130415",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/3/36/Csgo-music-kit-newbeatfund_01-mainmenu.ogg/revision/latest?cb=20151112130415",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/3/36/Csgo-music-kit-newbeatfund_01-mainmenu.ogg/revision/latest?cb=20151112130415",
@@ -359,6 +385,7 @@
         },
         "Beartooth, Disgusting": {
             "id": 29,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/5/5a/Beartooth_01.png/revision/latest?cb=20151109130918",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/b/ba/Csgo-music-kit-beartooth_01-mainmenu.ogg/revision/latest?cb=20151112131056",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/b/ba/Csgo-music-kit-beartooth_01-mainmenu.ogg/revision/latest?cb=20151112131056",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/b/ba/Csgo-music-kit-beartooth_01-mainmenu.ogg/revision/latest?cb=20151112131056",
@@ -372,6 +399,7 @@
         },
         "Lennie Moore, Java Havana Funkaloo": {
             "id": 30,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/4/47/Lenniemoore_01.png/revision/latest?cb=20151110121448",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/a/ab/Csgo-music-kit-lenniemoore_01-mainmenu.ogg/revision/latest?cb=20151112134328",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/a/ab/Csgo-music-kit-lenniemoore_01-mainmenu.ogg/revision/latest?cb=20151112134328",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/a/ab/Csgo-music-kit-lenniemoore_01-mainmenu.ogg/revision/latest?cb=20151112134328",
@@ -385,6 +413,7 @@
         },
         "Darude, Moments CSGO": {
             "id": 31,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/1/1d/Darude_MomentsCSGO.png/revision/latest/scale-to-width-down/350?cb=20150927202000",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/8/81/Csgo-music-kit-darude_01-mainmenu.ogg/revision/latest?cb=20151108121104",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/8/81/Csgo-music-kit-darude_01-mainmenu.ogg/revision/latest?cb=20151108121104",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/8/81/Csgo-music-kit-darude_01-mainmenu.ogg/revision/latest?cb=20151108121104",
@@ -398,6 +427,7 @@
         },
         "Beartooth, Aggressive": {
             "id": 32,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/5/5a/Beartooth_01.png/revision/latest?cb=20151109130918",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/b/ba/Csgo-music-kit-beartooth_01-mainmenu.ogg/revision/latest?cb=20151112131056",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/b/ba/Csgo-music-kit-beartooth_01-mainmenu.ogg/revision/latest?cb=20151112131056",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/b/ba/Csgo-music-kit-beartooth_01-mainmenu.ogg/revision/latest?cb=20151112131056",
@@ -411,6 +441,7 @@
         },
         "Blitz Kids, The Good Youth": {
             "id": 33,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/b/bb/Blitzkids_01.png/revision/latest?cb=20161129120855",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/4/41/Csgo-music-kit-blitzkids-roundmvpanthem_01.mp3/revision/latest?cb=20220124172906",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/a/a4/Csgo-music-kit-blitzkids-bombtenseccount.mp3/revision/latest?cb=20220124172906",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/b/b7/Csgo-music-kit-blitzkids-roundtenseccount.mp3/revision/latest?cb=20220124172906",
@@ -424,6 +455,7 @@
         },
         "Hundredth, FREE": {
             "id": 34,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/2/22/Hundredth_01.png/revision/latest?cb=20161129120856",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/7/7a/Csgo-music-kit-sarahschachner-mainmenu.mp3/revision/latest?cb=20220124093212",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/7/7a/Csgo-music-kit-sarahschachner-mainmenu.mp3/revision/latest?cb=20220124093212",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/7/7a/Csgo-music-kit-sarahschachner-mainmenu.mp3/revision/latest?cb=20220124093212",
@@ -437,6 +469,7 @@
         },
         "Neck Deep, Life's Not Out To Get You": {
             "id": 35,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/0/04/Neckdeep_01.png/revision/latest?cb=20161129120856",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/f/f7/Csgo-music-kit-twinatlantic-roundmvpanthem_01.mp3/revision/latest?cb=20220124172148",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/1/17/Csgo-music-kit-twinatlantic-bombtenseccount.mp3/revision/latest?cb=20220124172147",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/c/c9/Csgo-music-kit-twinatlantic-roundtenseccount.mp3/revision/latest?cb=20220124172148",
@@ -450,6 +483,7 @@
         },
         "Roam, Backbone": {
             "id": 36,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/f/f2/Roam_01.png/revision/latest?cb=20161129120856",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/7/7b/Csgo-music-kit-Roam_Backbone-mainmenu.ogg/revision/latest?cb=20190408000520",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/7/7b/Csgo-music-kit-Roam_Backbone-mainmenu.ogg/revision/latest?cb=20190408000520",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/7/7b/Csgo-music-kit-Roam_Backbone-mainmenu.ogg/revision/latest?cb=20190408000520",
@@ -463,6 +497,7 @@
         },
         "Twin Atlantic, GLA": {
             "id": 37,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/7/7d/Twinatlantic_01.png/revision/latest?cb=20161129120857",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/1/11/Csgo-music-kit-twinatlantic-mainmenu.mp3/revision/latest?cb=20220124172150",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/1/11/Csgo-music-kit-twinatlantic-mainmenu.mp3/revision/latest?cb=20220124172150",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/1/11/Csgo-music-kit-twinatlantic-mainmenu.mp3/revision/latest?cb=20220124172150",
@@ -476,6 +511,7 @@
         },
         "Skorg, III-Arena": {
             "id": 38,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/0/0f/Skog_03.png/revision/latest?cb=20161129120857",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/c/c8/Csgo-music-kit-Skog_03-mainmenu.mp3/revision/latest?cb=20220124171723",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/c/c8/Csgo-music-kit-Skog_03-mainmenu.mp3/revision/latest?cb=20220124171723",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/c/c8/Csgo-music-kit-Skog_03-mainmenu.mp3/revision/latest?cb=20220124171723",
@@ -489,6 +525,7 @@
         },
         "The Verkkars, EZ4ENCE": {
             "id": 39,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/a/a9/EZ4ENCEmusickit.png/revision/latest/scale-to-width-down/350?cb=20190331183547",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/9/98/Csgo-music-kit-EZ4ENCE-01-mainmenu.ogg/revision/latest?cb=20190331190629",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/9/98/Csgo-music-kit-EZ4ENCE-01-mainmenu.ogg/revision/latest?cb=20190331190629",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/9/98/Csgo-music-kit-EZ4ENCE-01-mainmenu.ogg/revision/latest?cb=20190331190629",
@@ -502,6 +539,7 @@
         },
         "The Master Chief Collection, Halo": {
             "id": 40,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/8/84/Masterchiefcollection.png/revision/latest?cb=20211206193636",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/f/f5/Csgo-music-kit-Halo-01-mainmenu.ogg/revision/latest?cb=20211215004140",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/f/f5/Csgo-music-kit-Halo-01-mainmenu.ogg/revision/latest?cb=20211215004140",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/f/f5/Csgo-music-kit-Halo-01-mainmenu.ogg/revision/latest?cb=20211215004140",
@@ -515,6 +553,7 @@
         },
         "King, Scar by Scarlxrd": {
             "id": 41,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/5/58/MusicKitscarlxrdkingscar.png/revision/latest?cb=20200730180752",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/a/ad/Csgo-music-kit-scarlxrd01-mainmenu.ogg/revision/latest?cb=20220124085753",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/a/ad/Csgo-music-kit-scarlxrd01-mainmenu.ogg/revision/latest?cb=20220124085753",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/a/ad/Csgo-music-kit-scarlxrd01-mainmenu.ogg/revision/latest?cb=20220124085753",
@@ -528,6 +567,7 @@
         },
         "Anti-Citizen, Mike Morasky (Valve)": {
             "id": 42,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/7/73/Csgo-music-kit-half-life-alyx-anti-citizen.png/revision/latest?cb=20200409042807",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/3/3e/Csgo-music-kit-HLAanticitizen-01-mainmenu.ogg/revision/latest?cb=20211215003202",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/3/3e/Csgo-music-kit-HLAanticitizen-01-mainmenu.ogg/revision/latest?cb=20211215003202",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/3/3e/Csgo-music-kit-HLAanticitizen-01-mainmenu.ogg/revision/latest?cb=20211215003202",
@@ -541,6 +581,7 @@
         },
         "Austin Wintory, Bachram": {
             "id": 43,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/4/42/Csgo-music-kit-austinwintory_02.png/revision/latest?cb=20211008153148",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/3/38/Csgo-music-kit-austinwintory02-mainmenu.mp3/revision/latest?cb=20220124103216",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/3/38/Csgo-music-kit-austinwintory02-mainmenu.mp3/revision/latest?cb=20220124103216",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/3/38/Csgo-music-kit-austinwintory02-mainmenu.mp3/revision/latest?cb=20220124103216",
@@ -554,6 +595,7 @@
         },
         "Dren, Gunman Taco Truck": {
             "id": 44,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/6/67/Csgo-music-kit-dren_02.png/revision/latest?cb=20211008153412",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/0/0f/Csgo-music-kit-dren02-mainmenu.mp3/revision/latest?cb=20220124102325",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/0/0f/Csgo-music-kit-dren02-mainmenu.mp3/revision/latest?cb=20220124102325",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/0/0f/Csgo-music-kit-dren02-mainmenu.mp3/revision/latest?cb=20220124102325",
@@ -567,6 +609,7 @@
         },
         "Daniel Sadowski, Eye of the Dragon": {
             "id": 45,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/5/52/Csgo-music-kit-danielsadowski_04.png/revision/latest?cb=20211008153723",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/0/0f/Csgo-music-kit-dren02-mainmenu.mp3/revision/latest?cb=20220124102325",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/0/0f/Csgo-music-kit-dren02-mainmenu.mp3/revision/latest?cb=20220124102325",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/0/0f/Csgo-music-kit-dren02-mainmenu.mp3/revision/latest?cb=20220124102325",
@@ -580,6 +623,7 @@
         },
         "Tree Adams and Ben Bromfield, M.U.D.D. FORCE": {
             "id": 46,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/7/7f/Csgo-music-kit-treeadams_benbromfield_01.png/revision/latest?cb=20211008153650",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/0/0c/Csgo-music-kit-treeadams_benbromfield01-mainmenu.mp3/revision/latest?cb=20220124103634",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/0/0c/Csgo-music-kit-treeadams_benbromfield01-mainmenu.mp3/revision/latest?cb=20220124103634",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/0/0c/Csgo-music-kit-treeadams_benbromfield01-mainmenu.mp3/revision/latest?cb=20220124103634",
@@ -593,6 +637,7 @@
         },
         "Tim Huling, Neo Noir": {
             "id": 47,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/d/d4/Csgo-music-kit-timhuling_01.png/revision/latest?cb=20211008153757",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/9/92/Csgo-music-kit-timhuling01-mainmenu.mp3/revision/latest?cb=20220124104057",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/9/92/Csgo-music-kit-timhuling01-mainmenu.mp3/revision/latest?cb=20220124104057",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/9/92/Csgo-music-kit-timhuling01-mainmenu.mp3/revision/latest?cb=20220124104057",
@@ -606,6 +651,7 @@
         },
         "Sam Marshall, Bodacious": {
             "id": 48,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/7/7a/Csgo-music-kit-sammarshall_01.png/revision/latest?cb=20211008153957",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/a/a1/Csgo-music-kit-sammarshall01-roundmvpanthem_01.mp3/revision/latest?cb=20220124102730",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/e/ef/Csgo-music-kit-sammarshall01-bombtenseccount.mp3/revision/latest?cb=20220124102729",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/2/2c/Csgo-music-kit-sammarshall01-roundtenseccount.mp3/revision/latest?cb=20220124102730",
@@ -619,6 +665,7 @@
         },
         "Matt Levine, Drifter": {
             "id": 49,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/e/e8/Csgo-music-kit-mattlevine_01.png/revision/latest?cb=20211008153613",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/7/75/Csgo-music-kit-mattlevine01-roundmvpanthem_01.mp3/revision/latest?cb=20220124103410",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/6/64/Csgo-music-kit-mattlevine01-bombtenseccount.mp3/revision/latest?cb=20220124103409",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/4/48/Csgo-music-kit-mattlevine01-roundtenseccount.mp3/revision/latest?cb=20220124103410",
@@ -632,6 +679,7 @@
         },
         "Amon Tobin, All for Dust": {
             "id": 50,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/7/70/Csgo-music-kit-amontobin_01.png/revision/latest?cb=20211008153820",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/d/db/Csgo-music-kit-allfordust-mainmenu.ogg/revision/latest?cb=20220124085157",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/d/db/Csgo-music-kit-allfordust-mainmenu.ogg/revision/latest?cb=20220124085157",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/d/db/Csgo-music-kit-allfordust-mainmenu.ogg/revision/latest?cb=20220124085157",
@@ -645,6 +693,7 @@
         },
         "Darren Korb, Hades": {
             "id": 51,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/0/02/HadesMusic.webp/revision/latest?cb=20210526231156",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/7/77/Csgo-music-kit-hades-mainmenu.ogg/revision/latest?cb=20220124091027",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/7/77/Csgo-music-kit-hades-mainmenu.ogg/revision/latest?cb=20220124091027",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/7/77/Csgo-music-kit-hades-mainmenu.ogg/revision/latest?cb=20220124091027",
@@ -658,6 +707,7 @@
         },
         "Neck Deep, The Lowlife Pack": {
             "id": 52,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/a/a9/Csgo-music-kit-neckdeep_02.png/revision/latest?cb=20211008154039",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/1/12/Csgo-music-kit-neckdeep-02-mainmenu.ogg/revision/latest?cb=20211215163004",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/1/12/Csgo-music-kit-neckdeep-02-mainmenu.ogg/revision/latest?cb=20211215163004",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/1/12/Csgo-music-kit-neckdeep-02-mainmenu.ogg/revision/latest?cb=20211215163004",
@@ -671,6 +721,7 @@
         },
         "Scarlxrd, CHAIN$AW.LXADXUT.": {
             "id": 53,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/c/c7/Csgo-music-kit-scarlxrd_02.png/revision/latest?cb=20211008154112",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/5/50/Csgo-music-kit-scarlxrd-02-mainmenu.ogg/revision/latest?cb=20211215162112",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/5/50/Csgo-music-kit-scarlxrd-02-mainmenu.ogg/revision/latest?cb=20211215162112",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/5/50/Csgo-music-kit-scarlxrd-02-mainmenu.ogg/revision/latest?cb=20211215162112",
@@ -684,6 +735,7 @@
         },
         "Austin Wintory, Mocha Petal": {
             "id": 54,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/a/a3/Csgo-music-kit-austinwintory_03.png/revision/latest?cb=20211008153149",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/4/40/Csgo-music-kit-austin03-mainmenu.mp3/revision/latest?cb=20220124092534",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/4/40/Csgo-music-kit-austin03-mainmenu.mp3/revision/latest?cb=20220124092534",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/4/40/Csgo-music-kit-austin03-mainmenu.mp3/revision/latest?cb=20220124092534",
@@ -697,6 +749,7 @@
         },
         "Chipzel, ~Yellow Magic~": {
             "id": 55,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/e/e5/Csgo-music-kit-chipzel_01.png/revision/latest?cb=20211008154323",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/4/49/Csgo-music-kit-chipzel-mainmenu.mp3/revision/latest?cb=20220124092400",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/4/49/Csgo-music-kit-chipzel-mainmenu.mp3/revision/latest?cb=20220124092400",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/4/49/Csgo-music-kit-chipzel-mainmenu.mp3/revision/latest?cb=20220124092400",
@@ -710,6 +763,7 @@
         },
         "Freaky DNA, Vici": {
             "id": 56,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/2/25/Csgo-music-kit-freakydna_01.png/revision/latest?cb=20211008154204",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/c/c1/Csgo-music-kit-freakydna-mainmenu.mp3/revision/latest?cb=20220124092203",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/c/c1/Csgo-music-kit-freakydna-mainmenu.mp3/revision/latest?cb=20220124092203",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/c/c1/Csgo-music-kit-freakydna-mainmenu.mp3/revision/latest?cb=20220124092203",
@@ -723,6 +777,7 @@
         },
         "Jesse Harlin, Astro Bellum": {
             "id": 57,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/5/58/Csgo-music-kit-jesseharlin_01.png/revision/latest?cb=20211008154419",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/c/c2/Csgo-music-kit-jesseharlin-mainmenu.mp3/revision/latest?cb=20220124092925",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/c/c2/Csgo-music-kit-jesseharlin-mainmenu.mp3/revision/latest?cb=20220124092925",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/c/c2/Csgo-music-kit-jesseharlin-mainmenu.mp3/revision/latest?cb=20220124092925",
@@ -736,6 +791,7 @@
         },
         "Laura Shighara: Work Hard, Play Hard": {
             "id": 58,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/0/01/Csgo-music-kit-laurashigihara_01.png/revision/latest?cb=20211008154203",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/4/49/Csgo-music-kit-laurashigihara-mainmenu.mp3/revision/latest?cb=20220124091920",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/4/49/Csgo-music-kit-laurashigihara-mainmenu.mp3/revision/latest?cb=20220124091920",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/4/49/Csgo-music-kit-laurashigihara-mainmenu.mp3/revision/latest?cb=20220124091920",
@@ -749,6 +805,7 @@
         },
         "Sarah Schachner, KOLIBRI": {
             "id": 59,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/4/48/Csgo-music-kit-sarahschachner_01.png/revision/latest?cb=20211008154438",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/7/7a/Csgo-music-kit-sarahschachner-mainmenu.mp3/revision/latest?cb=20220124093212",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/7/7a/Csgo-music-kit-sarahschachner-mainmenu.mp3/revision/latest?cb=20220124093212",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/7/7a/Csgo-music-kit-sarahschachner-mainmenu.mp3/revision/latest?cb=20220124093212",
@@ -762,6 +819,7 @@
         },
         "bbno$, u mad!": {
             "id": 60,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/3/3e/Bbnos_01_music_kit.png/revision/latest?cb=20211008150513",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/f/fb/Csgo-music-kit-umad-01-mainmenu.ogg/revision/latest?cb=20211008151500",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/1/14/Csgo-music-kit-umad-01-bombtenseccount.ogg/revision/latest?cb=20211008151459",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/1/14/Csgo-music-kit-umad-01-bombtenseccount.ogg/revision/latest?cb=20211008151459",
@@ -775,6 +833,7 @@
         },
         "The Verkkars & n0thing, Flashbang Dance": {
             "id": 61,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/6/6b/Theverkkars_02_music_kit.png/revision/latest?cb=20211110113210",
             "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/7/75/Csgo-music-kit-flashdance-mainmenu.ogg/revision/latest?cb=20211110113827",
             "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/7/75/Csgo-music-kit-flashdance-mainmenu.ogg/revision/latest?cb=20211110113827",
             "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/7/75/Csgo-music-kit-flashdance-mainmenu.ogg/revision/latest?cb=20211110113827",
