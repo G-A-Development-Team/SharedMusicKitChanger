@@ -1,7 +1,7 @@
 <?php
 
 $main_menus = ["Main menu theme", "Main Menu Theme", "Main Menu"];
-$round_start
+$round_start;
 $sections = ["Main menu theme", "Bomb planted", "10 seconds remaining on bomb timer", "Choose team", 
 				"Deathcam", "Round Loss", "Round MVP anthem", "10 seconds left in round", "Round start",
 				"Round Won"];
