@@ -5,11 +5,16 @@ $round_start;
 $sections = ["Main menu theme", "Bomb planted", "10 seconds remaining on bomb timer", "Choose team", 
 				"Deathcam", "Round Loss", "Round MVP anthem", "10 seconds left in round", "Round start",
 				"Round Won"];
-$kitsa = json_decode(file_get_contents("kits_read.json"), TRUE);
+$kitsa = json_decode(file_get_contents("kits.json"), TRUE);
 $kits = $kitsa["kits"];
 $kit_id = 0;
 $json;
 $sections_index = 0;
+$img_sect = 'portable-infobox pi-background';
+
+//$html = file_get_contents($kits['urls'][61]);
+//echo $html;
+
 foreach ($kits['kits'] as $kit) {
 	$section = "Main menu theme";
 	if (strcmp($kits['urls'][$kit_id], "skip") == 0) {
@@ -17,9 +22,16 @@ foreach ($kits['kits'] as $kit) {
 		$kit_id++;
 		continue; 
 	}
+	$json['details'][$kit]['id'] = $kit_id;
 	$html = file_get_contents($kits['urls'][$kit_id]);
+	if (str_contains($html, $img_sect)) {
+		//echo 'contains yes';
+		$img_a = explode($img_sect, $html);
+		$img_b = explode('<img src="', $img_a[1]);
+		//echo "settings img: " .  explode('" ', $img_b[1])[0];
+		$json['details'][$kit]['img'] = explode('" ', $img_b[1])[0];
+	}
 	foreach ($sections as $section) {
-		$json['details'][$kit]['id'] = $kit_id;
 		if (strcmp($section,"Main menu theme")) {
 			if (str_contains($html, $sections[0])) {
 				$a = explode($section, $html);
