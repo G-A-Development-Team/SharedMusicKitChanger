@@ -5,7 +5,7 @@ $round_start;
 $sections = ["Main menu theme", "Bomb planted", "10 seconds remaining on bomb timer", "Choose team", 
 				"Deathcam", "Round Loss", "Round MVP anthem", "10 seconds left in round", "Round start",
 				"Round Won"];
-$kitsa = json_decode(file_get_contents("kits.json"), TRUE);
+$kitsa = json_decode(file_get_contents("kits_read.json"), TRUE);
 $kits = $kitsa["kits"];
 $kit_id = 0;
 $json;
