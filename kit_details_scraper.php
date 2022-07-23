@@ -12,9 +12,6 @@ $json;
 $sections_index = 0;
 $img_sect = 'portable-infobox pi-background';
 
-//$html = file_get_contents($kits['urls'][61]);
-//echo $html;
-
 foreach ($kits['kits'] as $kit) {
 	$section = "Main menu theme";
 	if (strcmp($kits['urls'][$kit_id], "skip") == 0) {
@@ -25,10 +22,8 @@ foreach ($kits['kits'] as $kit) {
 	$json['details'][$kit]['id'] = $kit_id;
 	$html = file_get_contents($kits['urls'][$kit_id]);
 	if (str_contains($html, $img_sect)) {
-		//echo 'contains yes';
 		$img_a = explode($img_sect, $html);
 		$img_b = explode('<img src="', $img_a[1]);
-		//echo "settings img: " .  explode('" ', $img_b[1])[0];
 		$json['details'][$kit]['img'] = explode('" ', $img_b[1])[0];
 	}
 	foreach ($sections as $section) {
