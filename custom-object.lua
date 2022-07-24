@@ -1,5 +1,5 @@
 --------------------------------------------
---          CUSTOM OBJECT CReATION        --
+--          CUSTOM OBJECT CREATION        --
 -- Credit To: Chicken4676                 --
 --------------------------------------------
 function gui._Custom(ref, varname, name, x, y, w, h, paint, custom_vars)
