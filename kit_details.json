@@ -929,6 +929,20 @@
             "10 seconds left in round": "https://static.wikia.nocookie.net/cswikia/images/e/e0/Csgo-music-kit-sullivanking-01-roundtenseccount.mp3/revision/latest?cb=20220824101133",
             "Round start": "https://static.wikia.nocookie.net/cswikia/images/5/5d/Csgo-music-kit-sullivanking-01-startaction_01.mp3/revision/latest?cb=20220824101133",
             "Round Won": "https://static.wikia.nocookie.net/cswikia/images/e/e1/Csgo-music-kit-sullivanking-01-wonround.mp3/revision/latest?cb=20220824101133"
+        },
+        "Sullivan King, Lock Me Up": {
+            "id": 68,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/3/3c/Perfectworld_01_music_kit.png/revision/latest?cb=20220914194106",
+            "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/d/da/Csgo-music-kit-perfectworld-01-mainmenu.mp3/revision/latest?cb=20220914194339",
+            "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/e/e5/Csgo-music-kit-perfectworld-01-bombplanted.mp3/revision/latest?cb=20220914194335",
+            "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/a/a2/Csgo-music-kit-perfectworld-01-bombtenseccount.mp3/revision/latest?cb=20220914194337",
+            "Choose team": "https://static.wikia.nocookie.net/cswikia/images/7/7c/Csgo-music-kit-perfectworld-01-chooseteam.mp3/revision/latest?cb=20220914194337",
+            "Deathcam": "https://static.wikia.nocookie.net/cswikia/images/b/b6/Csgo-music-kit-perfectworld-01-deathcam.mp3/revision/latest?cb=20220914194337",
+            "Round Loss": "https://static.wikia.nocookie.net/cswikia/images/8/8d/Csgo-music-kit-perfectworld-01-lostround.mp3/revision/latest?cb=20220914194337",
+            "Round MVP anthem": "https://static.wikia.nocookie.net/cswikia/images/f/fc/Csgo-music-kit-perfectworld-01-roundmvpanthem_01.mp3/revision/latest?cb=20220914194337",
+            "10 seconds left in round": "https://static.wikia.nocookie.net/cswikia/images/4/45/Csgo-music-kit-perfectworld-01-roundtenseccount.mp3/revision/latest?cb=20220914194338",
+            "Round start": "https://static.wikia.nocookie.net/cswikia/images/1/10/Csgo-music-kit-perfectworld-01-startround_01.mp3/revision/latest?cb=20220914194338",
+            "Round Won": "https://static.wikia.nocookie.net/cswikia/images/b/bb/Csgo-music-kit-perfectworld-01-wonround.mp3/revision/latest?cb=20220914194338"
         }
     }
 }
