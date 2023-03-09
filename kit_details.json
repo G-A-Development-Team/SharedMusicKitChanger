@@ -943,6 +943,20 @@
             "10 seconds left in round": "https://static.wikia.nocookie.net/cswikia/images/4/45/Csgo-music-kit-perfectworld-01-roundtenseccount.mp3/revision/latest?cb=20220914194338",
             "Round start": "https://static.wikia.nocookie.net/cswikia/images/1/10/Csgo-music-kit-perfectworld-01-startround_01.mp3/revision/latest?cb=20220914194338",
             "Round Won": "https://static.wikia.nocookie.net/cswikia/images/b/bb/Csgo-music-kit-perfectworld-01-wonround.mp3/revision/latest?cb=20220914194338"
+        },
+        "Denzel Curry, ULTIMATE": {
+            "id": 69,
+            "img": "https://static.wikia.nocookie.net/cswikia/images/5/55/Denzelcurry_01_music_kit.png/revision/latest?cb=20230213225105",
+            "Main menu theme": "https://static.wikia.nocookie.net/cswikia/images/2/2e/Csgo-music-kit-ultimate-01-mainmenu.mp3/revision/latest?cb=20230213225206",
+            "Bomb planted": "https://static.wikia.nocookie.net/cswikia/images/f/f3/Csgo-music-kit-ultimate-01-bombplanted.mp3/revision/latest?cb=20230213225203",
+            "10 seconds remaining on bomb timer": "https://static.wikia.nocookie.net/cswikia/images/c/cb/Csgo-music-kit-ultimate-01-bombtenseccount.mp3/revision/latest?cb=20230213225204",
+            "Choose team": "https://static.wikia.nocookie.net/cswikia/images/4/4e/Csgo-music-kit-ultimate-01-chooseteam.mp3/revision/latest?cb=20230213225204",
+            "Deathcam": "https://static.wikia.nocookie.net/cswikia/images/1/18/Csgo-music-kit-ultimate-01-deathcam.mp3/revision/latest?cb=20230213225204",
+            "Round Loss": "https://static.wikia.nocookie.net/cswikia/images/0/0a/Csgo-music-kit-ultimate-01-lostround.mp3/revision/latest?cb=20230213225204",
+            "Round MVP anthem": "https://static.wikia.nocookie.net/cswikia/images/d/d7/Csgo-music-kit-ultimate-01-roundmvpanthem_01.mp3/revision/latest?cb=20230213225204",
+            "10 seconds left in round": "https://static.wikia.nocookie.net/cswikia/images/2/25/Csgo-music-kit-ultimate-01-roundtenseccount.mp3/revision/latest?cb=20230213225205",
+            "Round start": "https://static.wikia.nocookie.net/cswikia/images/2/28/Csgo-music-kit-ultimate-01-startround_01.mp3/revision/latest?cb=20230213225205",
+            "Round Won": "https://static.wikia.nocookie.net/cswikia/images/5/52/Csgo-music-kit-ultimate-01-wonround.mp3/revision/latest?cb=20230213225206"
         }
     }
 }
