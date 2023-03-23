@@ -1,7 +1,18 @@
 {
     "details": {
         "Off": {
-            "id": 0
+            "id": 0,
+            "img": "",
+            "Main menu theme": "",
+            "Bomb planted": "",
+            "10 seconds remaining on bomb timer": "",
+            "Choose team": "",
+            "Deathcam": "",
+            "Round Loss": "",
+            "Round MVP anthem": "",
+            "10 seconds left in round": "",
+            "Round start": "",
+            "Round Won": ""
         },
         "Default": {
             "id": 1,
